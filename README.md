@@ -1,9 +1,9 @@
 # estatistica
 
-Descrição. 
+Descricao. 
 Este pacote é usado para:
-	- funções simples de estatística  
-	- apresentar resultados dos cálculos
+	- funcoes simples de estatística  
+	- apresentar resultados dos calculos
 
 ## Instalação
 
@@ -20,7 +20,7 @@ from package_estatistica.funcoes import principal
 ```
 
 ## Autor
-Alessandro Miranda Gonçalves
+Alessandro Miranda Goncalves
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)

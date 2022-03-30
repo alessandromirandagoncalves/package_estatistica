@@ -1,11 +1,11 @@
-# estatistica
+# Estatistica
 
 Descricao. 
-Este pacote é usado para:
-	- funcoes simples de estatística  
+Este pacote eh usado para:
+	- funcoes simples de estatistica  
 	- apresentar resultados dos calculos
 
-## Instalação
+## Instalacao
 
 Use gerenciador de pacote [pip](https://pip.pypa.io/en/stable/) para instalar o pacote package_estatistica
 
@@ -13,7 +13,7 @@ Use gerenciador de pacote [pip](https://pip.pypa.io/en/stable/) para instalar o 
 pip install package_estatistica
 ```
 
-## Utilização
+## Utilizacao
 
 ```python
 from package_estatistica.funcoes import principal

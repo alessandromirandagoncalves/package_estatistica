@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="package_estatistica",
-    version="0.0.2",
+    version="0.0.3",
     author="Alessandro_Miranda_Goncalves",
     author_email="alessandro.inovacao@gmail.com",
     description="Engenheiro de dados e desenvolvedor de software",
